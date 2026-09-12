@@ -1,0 +1,12 @@
+# Fuentes originales entregadas por DANE (no se versionan)
+Base de datos-EGIT-Base Anonimizada-IV trim2024/
+Base de datos-EGIT-Base Anonimizada-IV trim2024.zip
+
+# Material de consulta local (no se versiona)
+funciones_notebooks_profesor.txt
+
+# Archivos locales de Jupyter y del escritorio
+.directory
+.ipynb_checkpoints/
+__pycache__/
+.idea/

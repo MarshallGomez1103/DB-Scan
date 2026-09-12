@@ -11,3 +11,9 @@ funciones_notebooks_profesor.txt
 .ipynb_checkpoints/
 __pycache__/
 .idea/
+
+# Material privado de apoyo para el grupo
+notas_notebook_dbscan.txt
+notas_notebook_dbscan.md
+guion_grupo_exposicion.txt
+DBSCAN_turismo_notebook_exposicion.ipynb
